@@ -1,4 +1,4 @@
-const socket = io("http://localhost:3000");
+const socket = io("https://chatapp-00w1.onrender.com");
 
 const joinBtn = document.getElementById("joinBtn");
 const sendBtn = document.getElementById("sendBtn");
