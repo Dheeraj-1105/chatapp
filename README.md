@@ -84,3 +84,5 @@ Frontend: HTML, CSS, Vanilla JavaScript
 Realtime Communication: Socket.IO
 
 Deployment Platforms: Render, Railway, Fly.io
+
+link for preview : https://chat-socketapp.netlify.app
